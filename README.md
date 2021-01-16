@@ -1,2 +1,2 @@
 # Youtube-Download-Manager
-The easy way to download video or audio from Yotube
+The easy way to download video or audio from Youtube
